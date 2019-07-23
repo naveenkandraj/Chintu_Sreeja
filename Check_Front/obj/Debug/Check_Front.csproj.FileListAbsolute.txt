@@ -1,0 +1,9 @@
+C:\Users\chakravarthy.annam\Downloads\Chintu_Sreeja-master\Chintu_Sreeja\Chintu_Sreeja\obj\Debug\Check_Front.csprojAssemblyReference.cache
+C:\Users\chakravarthy.annam\Downloads\Chintu_Sreeja-master\Chintu_Sreeja\Chintu_Sreeja\obj\Debug\Check_Front.Form1.resources
+C:\Users\chakravarthy.annam\Downloads\Chintu_Sreeja-master\Chintu_Sreeja\Chintu_Sreeja\obj\Debug\Check_Front.Form2.resources
+C:\Users\chakravarthy.annam\Downloads\Chintu_Sreeja-master\Chintu_Sreeja\Chintu_Sreeja\obj\Debug\Check_Front.Form3.resources
+C:\Users\chakravarthy.annam\Downloads\Chintu_Sreeja-master\Chintu_Sreeja\Chintu_Sreeja\obj\Debug\Chintu_Sreeja.Properties.Resources.resources
+C:\Users\chakravarthy.annam\Downloads\Chintu_Sreeja-master\Chintu_Sreeja\Chintu_Sreeja\obj\Debug\Check_Front.csproj.GenerateResource.cache
+C:\Users\chakravarthy.annam\Downloads\Chintu_Sreeja-master\Chintu_Sreeja\Chintu_Sreeja\obj\Debug\Check_Front.csproj.CoreCompileInputs.cache
+C:\Users\chakravarthy.annam\Downloads\Chintu_Sreeja-master\Chintu_Sreeja\Chintu_Sreeja\obj\Debug\Chintu_Sreeja.exe
+C:\Users\chakravarthy.annam\Downloads\Chintu_Sreeja-master\Chintu_Sreeja\Chintu_Sreeja\obj\Debug\Chintu_Sreeja.pdb
